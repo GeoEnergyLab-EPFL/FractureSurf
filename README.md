@@ -17,7 +17,7 @@ All rights reserved.
 
 ## Support
 
-Email: mohsen.talebkeikhah@gmail.com
+Email: m.talebkeikhah@gmail.com
 
 ## Getting started
 
