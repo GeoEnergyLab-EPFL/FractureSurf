@@ -17,11 +17,14 @@ All rights reserved.
 
 ## Support
 
-Email: m.talebkeikhah@gmail.com
+Email: mohsen.talebkeikhah@gmail.com
 
 ## Getting started
 
-Open the Residual_Fracture_M08_V3.m code in MATLAB.
+Open the Residual_Fracture_M03_V3.m (for M03 sample) and Residual_Fracture_M04_V3.m (for M04 sample) code in MATLAB.
+
 Add the directory of the CT-scan images.
-Tune the parameters of image processing to better catch the fracture path.
+
+Tune the parameters of image processing to better catch the fracture path (for your own dataset).
+
 Run the code.
